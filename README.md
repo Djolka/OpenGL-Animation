@@ -2,6 +2,9 @@
 
 git clone https://github.com/Djolka/RG-projekat.git
 
+# Demonstracija:
+https://youtu.be/wVnG65JNHBw
+
 
 # UPUTSTVO:
 
