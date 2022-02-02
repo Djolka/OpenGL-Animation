@@ -3,7 +3,7 @@
 git clone https://github.com/Djolka/RG-projekat.git
 
 # Demonstracija:
-https://youtu.be/wVnG65JNHBw
+https://youtu.be/1Q7Q5Gz_qc8
 
 
 # UPUTSTVO:
