@@ -1,12 +1,12 @@
-# RG-projekat
+# Project in the course <i>Computer Graphics</i>
 
 git clone https://github.com/Djolka/RG-projekat.git
 
-# Demonstracija:
+# Demonstration:
 https://youtu.be/1Q7Q5Gz_qc8
 
 
-# UPUTSTVO:
+# Instructions:
 
 1. Q - spotlight
 2. E - **grayscale**
@@ -14,5 +14,3 @@ https://youtu.be/1Q7Q5Gz_qc8
 4. A - left
 5. S - backward
 6. D - right
-
-**Anti aliasing**
